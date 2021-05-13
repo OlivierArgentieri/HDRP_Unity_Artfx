@@ -295,25 +295,25 @@
      <HintPath>C:/Program Files/Unity/Hub/Editor/2021.2.0a16/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="YamlDotNet">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll</HintPath>
      </Reference>
      <Reference Include="IonicZip">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll</HintPath>
      </Reference>
      <Reference Include="MiscUtil">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll</HintPath>
-     </Reference>
-     <Reference Include="Antlr3.Runtime">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Newtonsoft.Json">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Assets/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll</HintPath>
      </Reference>
      <Reference Include="EditoolsUnity">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Assets/hdrp_unity/Assets/Plugins/Editools/EditoolsUnity.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Assets/hdrp_unity/Assets/Plugins/Editools/EditoolsUnity.dll</HintPath>
+     </Reference>
+     <Reference Include="Antlr3.Runtime">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Newtonsoft.Json">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Assets/UnityPackages/JsonNet/Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:/Program Files/Unity/Hub/Editor/2021.2.0a16/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -664,100 +664,100 @@
      <HintPath>C:/Program Files/Unity/Hub/Editor/2021.2.0a16/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TestRunner">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.TestRunner">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualEffectGraph.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VSCode.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualEffectGraph.Runtime">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.TextMeshPro">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Searcher.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="VSSettingsProvider">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/VSSettingsProvider.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEditor.UI">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Rider.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.UI">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.ShaderGraph.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.Timeline.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.RenderPipelines.Core.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Unity.VisualScripting.State">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Recorder.Editor">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.Recorder">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+     <Reference Include="Unity.VSCode.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Recorder.Base">
-     <HintPath>D:/Projet/PullGithub/hdrp_unity/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TextMeshPro.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualStudio.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualEffectGraph.Runtime">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Timeline">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Core.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.TextMeshPro">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Searcher.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="VSSettingsProvider">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/VSSettingsProvider.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Runtime">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Flow">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEditor.UI">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Rider.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.UI">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.Core">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.ShaderGraph.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Timeline.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Core.Editor">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.VisualScripting.State">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.Recorder">
+     <HintPath>D:/Projet/PullGithub/HDRP_Unity_Artfx/hdrp_unity_raytracing_2021/hdrp_unity_raytracing/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
