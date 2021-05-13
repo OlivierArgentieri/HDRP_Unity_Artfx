@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.hdrp_unity_raytracing.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Projet\PullGithub\hdrp_unity\hdrp_unity_raytracing_2021\hdrp_unity_raytracing\.idea\.idea.hdrp_unity_raytracing\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
